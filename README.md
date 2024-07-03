@@ -7,16 +7,13 @@ cd restful-goAPI
 
 docker compose up -d
 
-go run main.go
+Install swagger
 
-```
-
-# Install swagger
-
-```
 go install github.com/swaggo/swag/cmd/swag@latest
 
 http://localhost:8080/swagger/index.html
+
+go run main.go
 
 ```
 
