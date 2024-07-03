@@ -11,6 +11,15 @@ go run main.go
 
 ```
 
+# Install swagger
+
+```
+go install github.com/swaggo/swag/cmd/swag@latest
+
+http://localhost:8080/swagger/index.html
+
+```
+
 ## RESTful API
 
 # Create User
