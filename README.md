@@ -17,6 +17,10 @@ go run main.go
 
 ```
 
+<p align="center">
+  <img src="swagger.png" alt="2" width="100%" style="max-width: 1200px; display: block; margin: auto;">
+</p>
+
 ## RESTful API
 
 # Create User
