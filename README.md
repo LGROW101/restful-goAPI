@@ -1,7 +1,7 @@
 ## Getting Started
 
 ```
-https://github.com/LGROW101/restful-goAPI.git
+ git clone https://github.com/LGROW101/restful-goAPI.git
 
 cd restful-goAPI
 
