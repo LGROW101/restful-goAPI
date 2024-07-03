@@ -5,6 +5,8 @@ https://github.com/LGROW101/restful-goAPI.git
 
 cd restful-goAPI
 
+docker compose up -d
+
 go run main.go
 ```
 
